@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">First Demo App</string>
+    <string name="hello">Hello Android, this is my First app!</string>
+</resources>
